@@ -1,1 +1,17 @@
+---
+title: 'Partner'
+author: "Eric Steyer"
+output: html_document
+---
 
+
+Name: Eric Steyer
+
+Username: ersteyer
+
+In the most recent commit, the partner added the Homework 1 Rmd and html files.
+Commit ID: c36cc90918860736d3d5597c407b2960019121bb
+
+I was able to knit the partner's hw1.Rmd file without an error.
+
+I think that the biggest difficulty for me is learning the git bash code and how to navigate through directories.
