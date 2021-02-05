@@ -1,0 +1,12 @@
+---
+title: "Partner2"
+author: "Jack Novak"
+date: "2/5/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Jack Novak and my github username is jackcnovak. Ryan's most recent commit, labeled 'setup,' added the .Rmd and .html files from HW 1 and had commit ID c36cc90918860736d3d5597c407b2960019121bb. I didn't run into any errors when I knitted Ryan's HW 1 file. Finally, I didn't encounter too much difficulty, although I moved slowly at times because I'm somewhat unfamiliar with R.
